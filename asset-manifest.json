@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reviews/static/css/main.ce76a92b.css",
+    "main.js": "/reviews/static/js/main.c4c62ede.js",
+    "index.html": "/reviews/index.html",
+    "main.ce76a92b.css.map": "/reviews/static/css/main.ce76a92b.css.map",
+    "main.c4c62ede.js.map": "/reviews/static/js/main.c4c62ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce76a92b.css",
+    "static/js/main.c4c62ede.js"
+  ]
+}
